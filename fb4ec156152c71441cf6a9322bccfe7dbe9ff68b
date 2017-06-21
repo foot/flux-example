@@ -1,0 +1,1 @@
+{"jobID":"dc17e57f-3eda-d3d0-008e-4844ce54ebdb","spec":{"type":"policy","cause":{"Message":"Unlocked default/helloworld","User":"test@test"},"spec":{"default/helloworld":{"add":null,"remove":["locked"]}}},"result":null}
