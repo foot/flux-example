@@ -1,0 +1,1 @@
+{"jobID":"1f27b600-5590-6d9d-1f29-3269d22ea404","spec":{"type":"policy","cause":{"Message":"glob this","User":"test@test"},"spec":{"default/helloworld":{"add":{"tag.helloworld":"glob:derpddd"},"remove":null}}},"result":null}
