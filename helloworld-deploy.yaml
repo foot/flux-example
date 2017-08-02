@@ -2,7 +2,7 @@ apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
   annotations:
-    flux.weave.works/tag.helloworld: glob:master-*d
+    flux.weave.works/tag.helloworld: glob:master-*
   name: helloworld
 spec:
   minReadySeconds: 5
