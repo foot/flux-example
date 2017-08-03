@@ -1,0 +1,1 @@
+{"jobID":"2b727388-542b-c208-4416-76829a67d198","spec":{"type":"policy","cause":{"Message":"zing a ding ding","User":"simon"},"spec":{"default/helloworld":{"add":{"tag.helloworld":"glob:derp"},"remove":{}}}},"result":null}
