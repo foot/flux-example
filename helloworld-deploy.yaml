@@ -3,6 +3,7 @@ kind: Deployment
 metadata:
   annotations:
     flux.weave.works/locked: "true"
+    flux.weave.works/tag.helloworld: glob:dddd
   name: helloworld
 spec:
   minReadySeconds: 5
