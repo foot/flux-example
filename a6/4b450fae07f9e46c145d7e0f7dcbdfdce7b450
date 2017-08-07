@@ -1,0 +1,1 @@
+{"jobID":"0af87c11-406f-4b9f-07e7-f8874d699e16","spec":{"type":"policy","cause":{"Message":"","User":"test@test"},"spec":{"default/helloworld":{"add":{"tag.helloworld":"glob:aster"},"remove":null}}},"result":null}
