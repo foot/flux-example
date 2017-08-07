@@ -1,0 +1,1 @@
+{"jobID":"470f99ac-c666-8bbb-7301-3ee14efad546","spec":{"type":"policy","cause":{"Message":"","User":"test@test"},"spec":{"default/helloworld":{"add":{"tag.helloworld":"glob:master-*"},"remove":null}}},"result":null}
