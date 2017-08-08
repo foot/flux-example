@@ -1,0 +1,1 @@
+{"jobID":"112682f2-1409-b46f-4025-e79b7f84eb1d","spec":{"type":"policy","cause":{"Message":"","User":"test@test"},"spec":{"default/helloworld":{"add":{"locked":"true"},"remove":null}}},"result":null}
