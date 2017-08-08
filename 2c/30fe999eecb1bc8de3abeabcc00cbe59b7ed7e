@@ -1,0 +1,1 @@
+{"jobID":"66e0e72d-9dd7-5d55-1608-d5661d2d05f3","spec":{"type":"policy","cause":{"Message":"","User":"test@test"},"spec":{"default/zing":{"add":{"locked":"true"},"remove":null}}},"result":null}
