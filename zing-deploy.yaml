@@ -1,0 +1,21 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  annotations:
+    flux.weave.works/automated: "true"
+  name: zing
+spec:
+  minReadySeconds: 5
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        name: zing
+    spec:
+      containers:
+      - name: zing
+        image: docker.io/foot/zing:ewq
+        args:
+        - -msg=Ahoy
+        ports:
+        - containerPort: 80
