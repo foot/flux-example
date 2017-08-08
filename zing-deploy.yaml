@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
       - name: zing
-        image: foot/zing:ewq
+        image: foot/zing:derp
         args:
         - -msg=Ahoy
         ports:
