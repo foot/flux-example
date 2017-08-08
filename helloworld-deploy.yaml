@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   annotations:
     flux.weave.works/automated: "true"
-    flux.weave.works/tag.helloworld: glob:masterd-masterd-masterd-*
+    flux.weave.works/tag.helloworld: glob:master-*
   name: helloworld
 spec:
   minReadySeconds: 5
