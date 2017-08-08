@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
       - name: zing
-        image: docker.io/foot/zing:ewq
+        image: foot/zing:ewq
         args:
         - -msg=Ahoy
         ports:
