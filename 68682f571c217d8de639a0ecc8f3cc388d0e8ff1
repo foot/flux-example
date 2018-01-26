@@ -1,0 +1,1 @@
+{"jobID":"c88b16c8-2699-9b14-7355-5c6ae4c6386b","spec":{"type":"policy","cause":{"Message":"zing","User":"simon \u003csimon@weave.works\u003e"},"spec":{"default:deployment/helloworld":{"add":null,"remove":{"locked":"true","locked_msg":"zing","locked_user":"simon \u003csimon@weave.works\u003e"}}}},"result":null}
