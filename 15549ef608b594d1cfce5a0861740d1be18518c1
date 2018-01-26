@@ -1,0 +1,1 @@
+{"jobID":"fe707896-b5c1-fba6-f14f-fbe7715fca95","spec":{"type":"policy","cause":{"Message":"zwing","User":"simon \u003csimon@weave.works\u003e"},"spec":{"default:deployment/helloworld":{"add":{"locked":"true","locked_msg":"\"zwing\"","locked_user":"simon \u003csimon@weave.works\u003e"},"remove":null}}},"result":null}
