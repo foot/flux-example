@@ -1,0 +1,1 @@
+{"jobID":"f8081491-d46c-90bd-384e-1fd71dc7abac","spec":{"type":"policy","cause":{"Message":"all done","User":"simon \u003csimon@weave.works\u003e"},"spec":{"default:deployment/helloworld":{"add":null,"remove":{"locked":"true","locked_msg":"all done","locked_user":"simon \u003csimon@weave.works\u003e"}}}},"result":null}
