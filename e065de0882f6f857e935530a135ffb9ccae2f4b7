@@ -1,0 +1,1 @@
+{"jobID":"6f88270c-f88d-9683-5829-09e1bd483c09","spec":{"type":"policy","cause":{"Message":"","User":"simon \u003csimon@weave.works\u003e"},"spec":{"default:deployment/helloworld":{"add":null,"remove":{"tag.helloworld":"glob:master-*"}}}},"result":null}
