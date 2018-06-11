@@ -5,6 +5,7 @@ metadata:
   annotations:
     flux.weave.works/tag.helloworld: glob:master-*
     flux.weave.works/tag.sidecar: glob:master*1
+    flux.weave.works/automated: 'true'
   name: helloworld
 spec:
   minReadySeconds: 5
