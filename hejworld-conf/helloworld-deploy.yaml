@@ -3,6 +3,9 @@ apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
   annotations:
+    flux.weave.works/locked: "true"
+    flux.weave.works/locked_msg: '"zing"'
+    flux.weave.works/locked_user: simon <simon@weave.works>
     flux.weave.works/tag.helloworld: glob:master-*
   name: helloworld
 spec:
