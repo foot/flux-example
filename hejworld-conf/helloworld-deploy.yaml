@@ -4,9 +4,6 @@ kind: Deployment
 metadata:
   annotations:
     flux.weave.works/tag.helloworld: regexp:master-[^a][^0][^0]
-    flux.weave.works/locked_msg: '"lock it ay"'
-    flux.weave.works/locked_user: Simond Why <simon@weave.works>
-    flux.weave.works/locked: 'true'
   name: helloworld
 spec:
   minReadySeconds: 5
