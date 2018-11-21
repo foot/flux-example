@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: quay.io/weaveworks/helloworld:master-9a16ff945b9e
+        image: quay.io/weaveworks/helloworld:master-07a1b6b
         args:
         - -msg=Ahoy
         ports:
@@ -24,7 +24,7 @@ spec:
           requests:
             cpu: 0
       - name: sidecar
-        image: quay.io/weaveworks/sidecar:master-a000001
+        image: quay.io/weaveworks/sidecar:master-a000002
         args:
         - -addr=:8080
         ports:
