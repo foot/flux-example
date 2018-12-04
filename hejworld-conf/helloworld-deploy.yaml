@@ -3,7 +3,7 @@ apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
   annotations:
-    flux.weave.works/tag.helloworld: regexp:master-[^a][^0]
+    flux.weave.works/tag.helloworld: regexp:master-9.*
   name: helloworld
 spec:
   minReadySeconds: 5
